@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба
+# Install script for directory: /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

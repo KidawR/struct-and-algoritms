@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/kidawrxc/Desktop/Учеба/Аоритмы$ и$ струк$ данных/Практика/4лаба/cmake-build-debug/
+cmake_ninja_workdir = /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба" -B"/Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба/cmake-build-debug"
+  COMMAND = cd /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба -B/Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -57,7 +57,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -72,13 +72,13 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_4: phony || CMakeFiles/4.dir
 
-build CMakeFiles/4.dir/main.cpp.o: CXX_COMPILER__4_Debug /Users/kidawrxc/Desktop/Учеба/Аоритмы$ и$ струк$ данных/Практика/4лаба/main.cpp || cmake_object_order_depends_target_4
+build CMakeFiles/4.dir/main.cpp.o: CXX_COMPILER__4_Debug /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/main.cpp || cmake_object_order_depends_target_4
   DEP_FILE = CMakeFiles/4.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/4.dir
   OBJECT_FILE_DIR = CMakeFiles/4.dir
 
-build CMakeFiles/4.dir/QIM.cpp.o: CXX_COMPILER__4_Debug /Users/kidawrxc/Desktop/Учеба/Аоритмы$ и$ струк$ данных/Практика/4лаба/QIM.cpp || cmake_object_order_depends_target_4
+build CMakeFiles/4.dir/QIM.cpp.o: CXX_COMPILER__4_Debug /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/QIM.cpp || cmake_object_order_depends_target_4
   DEP_FILE = CMakeFiles/4.dir/QIM.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/4.dir
@@ -109,7 +109,7 @@ build 4: CXX_EXECUTABLE_LINKER__4_Debug CMakeFiles/4.dir/main.cpp.o CMakeFiles/4
 # =============================================================================
 
 #############################################
-# Folder: /Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба/cmake-build-debug
+# Folder: /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug
 
 build all: phony 4
 

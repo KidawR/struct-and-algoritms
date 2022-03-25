@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/kidawrxc/Desktop/Учеба/Аоритмы и струк данных/Практика/4лаба/cmake-build-debug
+-- Build files have been written to: /Users/kidawrxc/Documents/GitHub/struct-and-algoritms/4лаба/cmake-build-debug

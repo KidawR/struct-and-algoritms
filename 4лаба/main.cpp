@@ -211,9 +211,7 @@ bool Start( ){
     if (k == 0) {
         cout << "Вы завершили работу программы";
         return true;
-    } else {
-        Start();
-    }
+    } else Start();
 } // основная функция с выводом всего
 
 int main(){
